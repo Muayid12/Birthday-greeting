@@ -2,6 +2,11 @@
 
 This is a simple HTML, CSS, and JavaScript project that displays a birthday greeting on a webpage. It can be used as a fun way to send a personalized birthday message through the browser.
 
+## Live Demo
+
+View the live version here:  
+[https://omicron-birthday.netlify.app/](https://omicron-birthday.netlify.app/)
+
 ## Features
 
 - Colorful and animated birthday greeting
